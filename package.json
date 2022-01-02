@@ -4,23 +4,23 @@
     "description": "A simple command line interface for efficiently generating a high-quality README file for future projects",
     "main": "index.js",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
+      "test": "echo \"Error: no test specified\" && exit 1"
     },
     "repository": {
-        "type": "git",
-        "url": "git+https://github.com/kworth999/README-generator"
+      "type": "git",
+      "url": "git+https://github.com/kworth999/README-generator"
     },
     "keywords": [
-        "README",
-        "Generator"
+      "README",
+      "Generator"
     ],
-    "author": "Justin McDonald",
+    "author": "Kayla Worth",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/jmcdonald112358/Readme-generator_PRO/issues"
+      "url": "https://github.com/kworth999/README-generator/issues"
     },
-    "homepage": "https://github.com/jmcdonald112358/Readme-generator_PRO#readme",
+    "homepage": "https://github.com/kworth999/README-generator",
     "dependencies": {
-        "inquirer": "^7.3.3"
+      "inquirer": "^7.3.3"
     }
-}
+  }
