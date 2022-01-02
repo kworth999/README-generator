@@ -17,17 +17,13 @@ Use markdown for formatting multi-step usage instructions and inserting screensh
 - [Questions](#questions)
 
 ### Installation
-1. Run node index.js
+1. npm install inquirer
 
 ### Usage
-Edit contents here, including removing these instructions.
-Use markdown for formatting multi-step usage instructions and inserting screenshots, then save and close window to continue.
+1. Run node index.js
 
 ### License
 Licensed under the following: MIT License
-
-### Contributing
-Type instructions for contributing to the project, using markdown formatting if necessary, and press enter to continue...
 
 
 ### Tests
