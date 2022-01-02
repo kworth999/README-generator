@@ -4,30 +4,21 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
 
 ### Description
-Edit contents here, including removing these instructions.
-Use markdown for formatting multi-step usage instructions and inserting screenshots, then save and close window to continue.
-
-### Table of Contents
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-- [How to contribute](#contribute)
-- [Credits (conditional)](#credits)
-- [Test instructions (conditional)](#tests)
-- [Questions](#questions)
+This project involved creating a Node.js application that utilizes the 'Inquirer' package to ask the user a series of prompts that then feed into a templated README document. The goal of the application is to quickly produce a high-quality, professional README file for projects that always has the appropriate formatting and minimum required content. It utilizes several confirmation prompts and conditional questions based on those prompts to ensure your README has the content you need.
 
 ### Installation
-1. npm install inquirer
+This application currently is not published and available to be installed.
 
 ### Usage
-1. Run node index.js
+To use this application:
+
+1. Navigate to the corresponding directory in your terminal
+2. Run node index.js
+3. Input the appropriate content for each prompt
+4. Enjoy your freshly-minted README file
 
 ### License
 Licensed under the following: MIT License
-
-
-### Tests
-Run node index.js
 
 ### Questions
 If you have any questions about the project, please feel free to message at **kaylaworth999@gmail.com**, or connect with me on GitHub: **[kworth999](https://github.com/kworth999)**
