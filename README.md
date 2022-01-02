@@ -20,6 +20,12 @@ To use this application:
 ### License
 Licensed under the following: MIT License
 
+### Resources 
+- The Inquirer package and its corresponding documentation
+- Node.js documentation
+- Class activities 
+- StackOverflow
+
 ### Questions
 If you have any questions about the project, please feel free to message at **kaylaworth999@gmail.com**, or connect with me on GitHub: **[kworth999](https://github.com/kworth999)**
 
