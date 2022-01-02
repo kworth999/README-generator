@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
 
 ### Description
-This project involved creating a Node.js application that utilizes the 'Inquirer' package to ask the user a series of prompts that then feed into a templated README document. The goal of the application is to quickly produce a high-quality, professional README file for projects that always has the appropriate formatting and minimum required content. It utilizes several confirmation prompts and conditional questions based on those prompts to ensure your README has the content you need.
+This project involved creating a Node.js application that utilizes the 'Inquirer' package to ask the user a series of prompts that then feed into a templated README document. The goal of the application is to quickly produce a professional README file for projects that always has the appropriate formatting and minimum required content. It utilizes several confirmation prompts and conditional questions based on those prompts to ensure your README has the content you need.
 
 ### Installation
 This application currently is not published and available to be installed.
